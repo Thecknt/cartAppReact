@@ -1,7 +1,7 @@
 {
   "name": "cartapp",
   "private": true,
-  "homepage": "http://Thecknt.github.io/cartAppReact",
+  "homepage": "https://thecknt.github.io/cartAppReact",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

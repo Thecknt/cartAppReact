@@ -1,10 +1,1 @@
-# React + Vite
-app maded by thecknt
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# cartAppReact
->>>>>>> 32645f12cca150a331f2b249c2b391ea72640cf0
+Este proyecto es una aplicación web desarrollada en React que simula la experiencia de compra de productos. La aplicación permite a los usuarios agregar y eliminar elementos del carrito de compras, utilizando diversos hooks proporcionados por React. Además, se ha implementado un sistema de enrutamiento para gestionar tanto el catálogo de productos como el carrito de compras, proporcionando una navegación fluida entre ambas secciones. Con la combinación de React y sus hooks, así como el uso del enrutamiento, esta aplicación ofrece una experiencia interactiva y dinámica para simular el proceso de compra en línea.
