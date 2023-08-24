@@ -1,0 +1,16 @@
+.container{
+    background-image: url(./assets/cartApp.jpg);
+    /* opacity: 90%; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 15px;
+    box-shadow: 45px;
+}
+.textH1{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    padding-top: 3%;
+    padding-bottom: 4%;
+}

@@ -1,0 +1,14 @@
+body{
+    background-image: url(./assets/Enjoy.png);
+    background-size: cover;
+    max-height: 80%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.container{
+    min-height: 85vh;
+}
+
